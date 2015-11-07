@@ -1,0 +1,30 @@
+Importer Log Report
+Project : OSSI-1 Board Riser.PrjPcb
+
+Section : Analyze Document - Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 Board Riser\OSSI-1 Board Riser.brd
+    Analyzing data of Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 Board Riser\OSSI-1 Board Riser.brd
+    Load settings
+    Load layers 114
+    Load Library "OSSI"
+    Load Packages 2
+EndSection
+
+Section : Analyze Document - Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 Board Riser\OSSI-1 Board Riser.sch
+    Analyzing data of Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 Board Riser\OSSI-1 Board Riser.sch
+    Load settings
+    Load layers 114
+    Load schematic
+    Load Libraries 2
+    Load Library "OSSI"
+    Load Packages 2
+    Load Symbols 8
+    Load DeviceSets 8
+    Load Library "frames"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 17
+    Load Sheets 1
+EndSection

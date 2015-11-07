@@ -1,0 +1,41 @@
+Importer Log Report
+Project : OSSI-1 Analog Temp Module.PrjPcb
+
+Section : Analyze Document - Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 EagleLib\OSSI.lbr
+    Analyzing data of Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 EagleLib\OSSI.lbr
+    Load settings
+    Load layers 114
+    Load Library library
+    Load Library ""
+    Load Packages 194
+    Load Symbols 140
+    Load DeviceSets 153
+EndSection
+
+Section : Analyze Document - Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 Analog Temp Module\OSSI-1 Analog Temp Module.brd
+    Analyzing data of Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 Analog Temp Module\OSSI-1 Analog Temp Module.brd
+    Load settings
+    Load layers 114
+    Load Library "OSSI"
+    Load Packages 4
+EndSection
+
+Section : Analyze Document - Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 Analog Temp Module\OSSI-1 Analog Temp Module.sch
+    Analyzing data of Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 Analog Temp Module\OSSI-1 Analog Temp Module.sch
+    Load settings
+    Load layers 114
+    Load schematic
+    Load Libraries 2
+    Load Library "frames"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "OSSI"
+    Load Packages 6
+    Load Symbols 6
+    Load DeviceSets 6
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 16
+    Load Sheets 1
+EndSection

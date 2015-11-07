@@ -1,0 +1,36 @@
+Importer Log Report
+Project : OSSI-1 OBC.PrjPcb
+
+Section : Analyze Document - Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 OBC\OSSI-1 OBC.brd
+    Analyzing data of Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 OBC\OSSI-1 OBC.brd
+    Load settings
+    Load layers 114
+    Load Library "OSSI"
+    Load Packages 34
+    Load Library "SparkFun"
+    Load Packages 1
+EndSection
+
+Section : Analyze Document - Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 OBC\OSSI-1 OBC.sch
+    Analyzing data of Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 OBC\OSSI-1 OBC.sch
+    Load settings
+    Load layers 114
+    Load schematic
+    Load Libraries 3
+    Load Library "frames"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "OSSI"
+    Load Packages 57
+    Load Symbols 43
+    Load DeviceSets 42
+    Load Library "SparkFun"
+    Load Packages 8
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 297
+    Load Sheets 4
+EndSection

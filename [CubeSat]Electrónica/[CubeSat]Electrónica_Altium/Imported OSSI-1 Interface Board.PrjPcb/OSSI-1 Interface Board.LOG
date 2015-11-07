@@ -1,0 +1,30 @@
+Importer Log Report
+Project : OSSI-1 Interface Board.PrjPcb
+
+Section : Analyze Document - Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 Interface Board\OSSI-1 Interface Board.brd
+    Analyzing data of Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 Interface Board\OSSI-1 Interface Board.brd
+    Load settings
+    Load layers 114
+    Load Library "OSSI"
+    Load Packages 9
+EndSection
+
+Section : Analyze Document - Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 Interface Board\OSSI-1 Interface Board.sch
+    Analyzing data of Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 Interface Board\OSSI-1 Interface Board.sch
+    Load settings
+    Load layers 114
+    Load schematic
+    Load Libraries 2
+    Load Library "OSSI"
+    Load Packages 20
+    Load Symbols 14
+    Load DeviceSets 14
+    Load Library "frames"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 57
+    Load Sheets 2
+EndSection

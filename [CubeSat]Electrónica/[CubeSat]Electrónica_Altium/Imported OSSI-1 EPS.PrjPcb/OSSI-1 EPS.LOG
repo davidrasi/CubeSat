@@ -1,0 +1,30 @@
+Importer Log Report
+Project : OSSI-1 EPS.PrjPcb
+
+Section : Analyze Document - Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 EPS\OSSI-1 EPS.brd
+    Analyzing data of Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 EPS\OSSI-1 EPS.brd
+    Load settings
+    Load layers 114
+    Load Library "OSSI"
+    Load Packages 28
+EndSection
+
+Section : Analyze Document - Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 EPS\OSSI-1 EPS.sch
+    Analyzing data of Z:\UNIVERSIDAD\ASIGNATURAS\TCI\PROYECTO\Cubesat\OSSI-1Electronics-master\OSSI-1 EPS\OSSI-1 EPS.sch
+    Load settings
+    Load layers 114
+    Load schematic
+    Load Libraries 2
+    Load Library "frames"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "OSSI"
+    Load Packages 41
+    Load Symbols 28
+    Load DeviceSets 29
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 176
+    Load Sheets 3
+EndSection
